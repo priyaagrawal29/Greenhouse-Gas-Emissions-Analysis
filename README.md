@@ -88,7 +88,7 @@ Results and Reccomendations:
 - Greenhouse gas emission reduction strategies should be focused on the local authorities within the pink cluster as these represent the areas that have the most emissions.
 - The highest priority for greenhouse gas emission reduction strategies should be on local authorities in the pink cluster, followed by the dark purple cluster, purple cluster, and the light pink cluster.
 ## Visualizations
-View visualizations generated for this project here: [Visualizations on Tableau Public](https://public.tableau.com/app/profile/priya.agrawal4103/viz/UKGreenhouseGasEmissionsAnalysis/GreenhouseGasEmissions)
+View visualizations generated for this project here: [Visualizations on Tableau Public](https://public.tableau.com/app/profile/priya.agrawal4103/viz/UKGreenhouseGasEmissionsAnalysis/GreenhouseGasEmissions). 
 The Tableau visualizations do not contain the time series analysis as it was not relevant to the final results.
 ## Contact
 If you would like more details about the project, or if you have any questions, please feel free to contact me through [LinkedIn](https://www.linkedin.com/in/priya-agrawal-0929) or [email](mailto:priya.agrawal0929@gmail.com).
